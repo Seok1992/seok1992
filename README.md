@@ -1,16 +1,19 @@
-## Hi there 👋
+## **BEM VINDOS** 💛
 
-<!--
-**Seok1992/seok1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É: MARIA LAURA
 
-Here are some ideas to get you started:
+**Algumas uriosidades sobre mim**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Adoro musicas, amo de paixão
+
+- Gosto de dias chuvosos
+
+- Sou estudante do Alura;
+
+- Amo dançar
+
+- Gosto de jogos
+
+### caso queira entrar em contato comigo
+00001113908531sp@al.educacao.sp.gov.br
+@Kimjin6853
