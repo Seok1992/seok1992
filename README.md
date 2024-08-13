@@ -17,3 +17,5 @@ MEU NOME É: MARIA LAURA
 ### caso queira entrar em contato comigo
 00001113908531sp@al.educacao.sp.gov.br
 @Kimjin6853
+
+![descrição do GIF](https://media1.tenor.com/m/aKFaZBrZFYcAAAAC/excited-spin.gif)
