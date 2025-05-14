@@ -13,6 +13,7 @@ MEU NOME É: MARIA LAURA
 - Amo dançar
 
 - Gosto de jogos
+- :)
 
 ### caso queira entrar em contato comigo
 00001113908531sp@al.educacao.sp.gov.br
